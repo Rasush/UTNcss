@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(238, 225, 208);
+    font-family: sans-serif;
+}
+
+p{
+    font-style: oblique;
+    font-size: small;
+}
+
+form{
+    border-style: inset;
+    text-align: center;
+}
+
+h1{color:rgb(20, 193, 212);}
+
+h3 {
+    color: blueviolet;
+    text-align: center;
+}
+img{
+    width: 100%;
+    margin:auto;
+}
